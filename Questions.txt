@@ -1,0 +1,6 @@
+Joshua Good
+JS 1)
+    Custom Search JSON API
+    https://developers.google.com/custom-search/v1/reference/rest/v1/cse/list
+JS 2)
+    Chrome and Firefox both handle javascript in an interpreted manner rather than compiled.

@@ -1,0 +1,19 @@
+log.js:2 Hello, Console!
+log.js:12 Abandon Hope All Ye Who Enter
+quoteDante @ log.js:12
+logWarning @ log.js:8
+log.js:16 I'm sorry, Dave. I'm afraid I can't do that.
+(anonymous) @ log.js:16
+log.js:20 (index)firstlastbirthday(index)firstlastbirthday0'René''Magritte'1'Chaim''Soutine''18930113'2'Henri''Matisse'Array(3)
+log.js:39 Adolescent Irradiated Espionage Tortoises
+log.js:40 Leo
+log.js:41 Mike
+log.js:42 Don
+log.js:43 Raph
+log.js:52 Variety is the spice of life
+log.js:68          GET https://devtools.glitch.me/coffee 404
+(anonymous) @ log.js:68
+log.js:56 Uncaught TypeError: Cannot set properties of null (setting 'textContent')
+    at HTMLButtonElement.<anonymous> (log.js:56:47)
+(anonymous) @ log.js:56
+
